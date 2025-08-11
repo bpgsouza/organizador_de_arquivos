@@ -1,2 +1,2 @@
-# organizador_de_arquivos
+# Organizador de arquivos
 Script para organização de arquivos em pastas
